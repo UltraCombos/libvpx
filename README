@@ -7,6 +7,9 @@ COMPILING THE APPLICATIONS/LIBRARIES:
   "configuring" with your desired build options, then using GNU make to build
   the application.
 
+  Please reference:
+  https://www.webmproject.org/code/build-prerequisites/
+
   1. Prerequisites
 
     * All x86 targets require the Yasm[1] assembler be installed.
